@@ -6,7 +6,7 @@ const index = () => {
     return (
         <SafeAreaView>
             <View>
-                <Text className='text-red-600 font-bold text-2xl'>Hello world</Text>
+                <Text className='text-red-600 font-bold text-2xl'>Hello worlds</Text>
             </View>
         </SafeAreaView>
     );
